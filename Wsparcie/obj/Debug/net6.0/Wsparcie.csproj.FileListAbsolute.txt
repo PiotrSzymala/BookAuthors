@@ -1,0 +1,15 @@
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/bin/Debug/net6.0/Wsparcie
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/bin/Debug/net6.0/Wsparcie.deps.json
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/bin/Debug/net6.0/Wsparcie.runtimeconfig.json
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/bin/Debug/net6.0/Wsparcie.dll
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/bin/Debug/net6.0/Wsparcie.pdb
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.csproj.AssemblyReference.cache
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.AssemblyInfoInputs.cache
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.AssemblyInfo.cs
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.csproj.CoreCompileInputs.cache
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.dll
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/refint/Wsparcie.dll
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.pdb
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/Wsparcie.genruntimeconfig.cache
+/Users/piotrszymala/RiderProjects/Wsparcie/Wsparcie/obj/Debug/net6.0/ref/Wsparcie.dll
