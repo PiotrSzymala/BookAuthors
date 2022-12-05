@@ -12,7 +12,7 @@ public class MenuAuthor
     private void ShowOptions()
     {
         Console.WriteLine("1 - Show authors.");
-        Console.WriteLine("2 - Check is particular author is on the list.");
+        Console.WriteLine("2 - Check is particular author appears on the list.");
         Console.WriteLine("3 - Add new author.");
         Console.WriteLine("4 - Remove author.");
         Console.WriteLine("5 - Clean list.");
