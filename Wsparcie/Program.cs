@@ -1,12 +1,14 @@
 ﻿using Wsparcie;
+using Wsparcie.Controllers;
+using Wsparcie.Models;
 
-List<Author> authors = new List<Author>()
+List<Author> authorsList = new List<Author>()
 {
     new Author("Joseph Conrad"),
     new Author("Carlos Zafon"),
     new Author("Leopold Tyrmand"),
     new Author("Franz Kafka"),
 };
-
- var menu = new  MenuAuthor(authors);
- menu.Chose();
+var authorsGroup = new AuthorsGroup(authorsList);
+var menu = new AuthorMenuInitializer(authorsGroup);
+menu.Chose();
